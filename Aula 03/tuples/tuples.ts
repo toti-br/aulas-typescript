@@ -1,0 +1,1 @@
+let empregado: [number, string] = [1, "Marcos"]
